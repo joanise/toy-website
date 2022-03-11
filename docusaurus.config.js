@@ -9,12 +9,14 @@ const config = {
   title: 'Eric\'s playground',
   tagline: 'Just getting familiar with this stuff',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/toy-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'joanise', // Usually your GitHub org/user name.
   projectName: 'toy-website', // Usually your repo name.
+  trailingSlash: true,
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
