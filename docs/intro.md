@@ -49,3 +49,7 @@ Open `docs/intro.md` (this page) and edit some lines: the site **reloads automat
 ## Eric's awesome contribution
 
 Am I great or what?
+
+## A new section
+
+This section is added so I can see the GitHub Actions CI have an effect.
