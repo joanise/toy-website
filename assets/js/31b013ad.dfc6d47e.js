@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8621],{502:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=n(7294),r=n(2773);function l(){return u.createElement(r.Z,null,u.createElement("h1",null,"Yo! This page runs in React!"),u.createElement("p",null,"But it does not have very interesting contents..."))}}}]);
