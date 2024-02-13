@@ -39,6 +39,7 @@ const FeatureList = [
       <>
         I just want to see what it looks like when I have four features
         listed and described.
+        Adding a note to see when my updated deployment script works.
       </>
     ),
   },
