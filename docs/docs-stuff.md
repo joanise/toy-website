@@ -5,7 +5,7 @@ sidebar_position: 3
 
 ## More stuff
 
-and nonsense.
+and nonsense. But why?
 
 Being under `docs/` rather than `pages/`, this page's URL is [/docs/docs-stuff](/docs/docs-stuff) and it magically appeared in the TOC for docs! Yay!
 
